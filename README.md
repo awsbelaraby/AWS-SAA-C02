@@ -2,7 +2,7 @@
 # AWS Solution Architect Associate Arabic Course
 
 
-<a href="http://example.com/">http://example.com/</a>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/GoYBC45gER0)
 
 <ul>
 <li><p>Bird</p></li>
